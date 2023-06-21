@@ -1,4 +1,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gozipwang)](https://solved.ac/gozipwang)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiminZku&layout=compact&theme=dark)
 <!--
 **MiminZku/MiminZku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
