@@ -1,3 +1,5 @@
+![MiminZku's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miminzku&show_icons=true&theme=dark)
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gozipwang)](https://solved.ac/gozipwang)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiminZku&layout=compact&theme=dark)
 <!--
